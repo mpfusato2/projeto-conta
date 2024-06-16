@@ -1,0 +1,17 @@
+E:\Marcos\Alios\Questao2\bin\Debug\net6.0\Questao2.exe
+E:\Marcos\Alios\Questao2\bin\Debug\net6.0\Questao2.deps.json
+E:\Marcos\Alios\Questao2\bin\Debug\net6.0\Questao2.runtimeconfig.json
+E:\Marcos\Alios\Questao2\bin\Debug\net6.0\Questao2.dll
+E:\Marcos\Alios\Questao2\bin\Debug\net6.0\Questao2.pdb
+E:\Marcos\Alios\Questao2\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Marcos\Alios\Questao2\obj\Debug\net6.0\Questao2.csproj.AssemblyReference.cache
+E:\Marcos\Alios\Questao2\obj\Debug\net6.0\Questao2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Marcos\Alios\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfoInputs.cache
+E:\Marcos\Alios\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfo.cs
+E:\Marcos\Alios\Questao2\obj\Debug\net6.0\Questao2.csproj.CoreCompileInputs.cache
+E:\Marcos\Alios\Questao2\obj\Debug\net6.0\Questao2.csproj.CopyComplete
+E:\Marcos\Alios\Questao2\obj\Debug\net6.0\Questao2.dll
+E:\Marcos\Alios\Questao2\obj\Debug\net6.0\refint\Questao2.dll
+E:\Marcos\Alios\Questao2\obj\Debug\net6.0\Questao2.pdb
+E:\Marcos\Alios\Questao2\obj\Debug\net6.0\Questao2.genruntimeconfig.cache
+E:\Marcos\Alios\Questao2\obj\Debug\net6.0\ref\Questao2.dll
